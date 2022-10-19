@@ -1,2 +1,3 @@
 .shiny
+__pycache__
 *.csv
